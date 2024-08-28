@@ -1,4 +1,4 @@
-Base Completa (LojaBrinquedos)
+Base Completa (LojaBrinquedos) a (ToyShop é a versão antiga) podia ter criado um branch mas fiquei com preguiça
 
 Deve ter que rodar "Update-Database" no console de pacotes , pra criar a base de dado
 
