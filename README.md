@@ -1,4 +1,6 @@
-Esse é metade do trabalho do rosen, o crud funciava, mas eu quebrei ele tentando adicionar 1:N entre cliente e brinquedos
-Em que um cliente pode ter varios brinquedos
-Tava usando esses videos de base:
-( https://www.youtube.com/watch?v=jxS8PT0KePI )
+Base Completa (LojaBrinquedos)
+
+Deve ter que rodar "Update-Database" no console de pacotes , pra criar a base de dado
+
+Teoricamente a base que o Rosen pediu ta feita, com uma relação 1:N de clientes e produtos que compraram (Que um cliente pode comprar vários produtos)
+A ideia é criar um cliente e depois criar uma "compra" e ai associar o nome dele
