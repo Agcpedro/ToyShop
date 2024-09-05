@@ -1,6 +1,11 @@
 O zip Toyshop _ PL é a versão da apresentação
+O zip ToyShop - Desafio Realizado é a versão com o Desafio Feito
 
-Agora precisa modificar o banco para te ruma tabela extra que contem o nome e descrição dos brinquedos, para substituir os dados harcoded
+Demorou mais saiu, quem ainda tiver Tempo de mexer da pra melhorar algumas coisas
 
-Deve ter que rodar "Update-Database" no console de pacotes , pra criar a base de dado
+As regras pra input de usuario ta bem basica, pode dar uma incrementada
+Ta sem estilização nenhuma, então isso pode melhorar
+No Orders (Pedidos) pode colocar pra mais informação do brinquedo e cliente aparecer,
+ja coloquei um pouco no detail mas ta feio, mas da pra usar de base
+
 
